@@ -1,4 +1,3 @@
-
 # RL-Chord
 
 This is the official implementation of RL-Chord, which aims to generate chord progressions for the given melody using reinforcement learning (RL) techniques.<br>
@@ -12,7 +11,7 @@ This is the official implementation of RL-Chord, which aims to generate chord pr
 <img src="img/RL-Chord.jpg" width="500" height="170" alt="model"/>
 
 ## DQN-Chord
-<img src="img/DQN-chord.jpg" width="500" height="200" alt="model"/>
+<img src="img/DQN-chord.jpg" width="500" height="210" alt="model"/>
 
 # Reference
 If you find the code useful for your research, please consider citing
