@@ -4,7 +4,7 @@
 This is the official implementation of RL-Chord, which aims to generate chord progressions for the given melody using reinforcement learning (RL) techniques.<br>
 - [Paper link](https://ieeexplore.ieee.org/abstract/document/10063204)
 - Check our [demo page](https://tayjsl97.github.io/demos/tnnls) and listen!<br>
-<br>
+
 ## CLSTM
 <img src="img/CLSTM.jpg" width="500" height="150" alt="model"/>
 
@@ -12,7 +12,7 @@ This is the official implementation of RL-Chord, which aims to generate chord pr
 <img src="img/RL-Chord.jpg" width="500" height="170" alt="model"/>
 
 ## DQN-Chord
-<img src="img/DQN-Chord.jpg" width="500" height="200" alt="model"/>
+<img src="img/DQN-chord.jpg" width="500" height="200" alt="model"/>
 
 # Reference
 If you find the code useful for your research, please consider citing
