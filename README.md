@@ -13,7 +13,7 @@ This is the official implementation of RL-Chord, which aims to generate chord pr
 ## DQN-Chord
 <img src="img/DQN-chord.jpg" width="500" height="210" alt="model"/>
 
-# Reference
+## Reference
 If you find the code useful for your research, please consider citing
 ```bib
 @article{ji2023rl,
@@ -24,6 +24,6 @@ If you find the code useful for your research, please consider citing
   publisher={IEEE}
 }
 ```
-# Acknowledgments
+## Acknowledgments
 We appreciate [RL-Adventure-2](https://github.com/higgsfield-ai/higgsfield/tree/main/higgsfield/rl/rl_adventure_2)
  for providing the reference codes of various reinforcement learning algorithm.
