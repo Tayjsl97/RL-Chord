@@ -26,4 +26,4 @@ If you find the code useful for your research, please consider citing
 ```
 ## Acknowledgments
 We appreciate [RL-Adventure-2](https://github.com/higgsfield-ai/higgsfield/tree/main/higgsfield/rl/rl_adventure_2)
- for providing the reference codes of various reinforcement learning algorithm.
+ for providing the reference codes of various reinforcement learning algorithms.
