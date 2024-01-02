@@ -5,7 +5,7 @@ This is the official implementation of RL-Chord, which aims to generate chord pr
 - Check our [demo page](https://tayjsl97.github.io/demos/tnnls) and listen!<br>
 
 ## Data
-Training data can be download [here](https://drive.google.com/drive/folders/17w0IndQRbz_WTmZta2Ilkg-LO3DwVzhi?usp=sharing).
+Training data can be downloaded [here](https://drive.google.com/drive/folders/17w0IndQRbz_WTmZta2Ilkg-LO3DwVzhi?usp=sharing).
 
 ## CLSTM
 <img src="img/CLSTM.jpg" width="500" height="150" alt="model"/>
